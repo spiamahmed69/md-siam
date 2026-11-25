@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spiamahmed69.github.io/md-siam/sitemap.xml

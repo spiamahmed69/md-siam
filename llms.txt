@@ -1,0 +1,25 @@
+# Md Siam (SP Siam Ahmed)
+
+> Md Siam, known online as SP Siam Ahmed, is a Full Stack Web Developer from Bangladesh. He builds modern, responsive websites and web applications with React, Next.js, Node.js and Firebase.
+
+## About
+
+- Full Stack Web Developer from Dhaka, Bangladesh
+- Builder of SP Calculator, SP Academy, বাংলা এডুকেশন, SP Books, SP Marketplace, SP Weather, SP Calendar, SP NEWS, SP Exam and more
+- Founder of NLITH Agency
+- Runs the SP Siam Ahmed Islamic YouTube channel
+
+## Links
+
+- Website: https://spiamahmed69.github.io/md-siam/
+- GitHub: https://github.com/Spsiamahmed
+- YouTube: https://www.youtube.com/@SP-SIAM-AHMED
+- Facebook: https://www.facebook.com/spsiamahmed1111
+- Email: spsiamahmed1111@gmail.com
+
+## SEO
+
+This site is plain static HTML on purpose — every word is in the first HTML
+response, so search engines do not need JavaScript to read it. It includes a
+meta description, Open Graph and Twitter cards, a canonical URL, Person
+JSON-LD schema, robots.txt, sitemap.xml and llms.txt.
